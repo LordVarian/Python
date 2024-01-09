@@ -1,4 +1,5 @@
 # Regular Expressions for specifying text patterns
+# re is the python regular expression library
 
 import re, pprint
 
