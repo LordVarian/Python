@@ -33,8 +33,6 @@ extractedEmail = emailRegex.findall(text)
 allPhoneNumbers = []
 for phoneNumber in extractedPhone:
     allPhoneNumbers.append(phoneNumber[0])
-    
-print(allPhoneNumbers) 
 
 # Copy the extracted email/phone to the clipboard
 results = '\n'.join(allPhoneNumbers) + '\n' + '\n'.join(extractedEmail)
