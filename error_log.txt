@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "C:\Users\David Huang\Downloads\Python\Automate Lessons\Lesson 12\Automate_12_b.py", line 28, in <module>
+    raise Exception('This is an error message')
+Exception: This is an error message
+
+Traceback (most recent call last):
+  File "C:\Users\David Huang\Downloads\Python\Automate Lessons\Lesson 12\Automate_12_b.py", line 28, in <module>
+    raise Exception('This is an error message')
+Exception: This is an error message
+
+Traceback (most recent call last):
+  File "C:\Users\David Huang\Downloads\Python\Automate Lessons\Lesson 12\Automate_12_b.py", line 28, in <module>
+    raise Exception('This is an error message')
+Exception: This is an error message
+
+Traceback (most recent call last):
+  File "C:\Users\David Huang\Downloads\Python\Automate Lessons\Lesson 12\Automate_12_b.py", line 28, in <module>
+    raise Exception('This is an error message')
+Exception: This is an error message
+
