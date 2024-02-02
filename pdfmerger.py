@@ -9,4 +9,5 @@ for filename in os.listdir():
         tmp = PdfReader(source)
         merger.append(tmp)
 
-merger.write('solo_leveling_combined.pdf')
+pdfname = input("Please enter combined pdf file name:")
+merger.write(pdfname + ".pdf")
